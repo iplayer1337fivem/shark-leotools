@@ -58,7 +58,7 @@ Config.Goggles = {
 		clothes = 148,
 		switch = SetSeethrough
 	},
-	['gasmask'] = {
+	['gasmaske'] = {
 		type = 'gas',
 		clothes = 46,
 		switch = nil
